@@ -1,0 +1,15 @@
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\bin\Debug\net5.0\2 Buisness Layer.deps.json
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\bin\Debug\net5.0\2 Buisness Layer.dll
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\bin\Debug\net5.0\ref\2 Buisness Layer.dll
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\bin\Debug\net5.0\2 Buisness Layer.pdb
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\bin\Debug\net5.0\1 Data Layer Access.dll
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\bin\Debug\net5.0\1 Data Layer Access.pdb
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\obj\Debug\net5.0\2 Buisness Layer.csproj.AssemblyReference.cache
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\obj\Debug\net5.0\2 Buisness Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\obj\Debug\net5.0\2 Buisness Layer.AssemblyInfoInputs.cache
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\obj\Debug\net5.0\2 Buisness Layer.AssemblyInfo.cs
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\obj\Debug\net5.0\2 Buisness Layer.csproj.CoreCompileInputs.cache
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\obj\Debug\net5.0\2 Buisness Layer.csproj.CopyComplete
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\obj\Debug\net5.0\2 Buisness Layer.dll
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\obj\Debug\net5.0\ref\2 Buisness Layer.dll
+C:\Users\lior\Source\Repos\Solution1\2 Buisness Layer\obj\Debug\net5.0\2 Buisness Layer.pdb

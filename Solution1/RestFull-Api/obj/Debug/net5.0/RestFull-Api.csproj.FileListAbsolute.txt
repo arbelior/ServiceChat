@@ -1,0 +1,55 @@
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\appsettings.json
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\RestFull-Api.exe
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\RestFull-Api.deps.json
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\RestFull-Api.runtimeconfig.json
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\RestFull-Api.runtimeconfig.dev.json
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\RestFull-Api.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\ref\RestFull-Api.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\RestFull-Api.pdb
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Microsoft.OData.Edm.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\1 Data Layer Access.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\2 Buisness Layer.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\3 Logic Layer.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\3 Logic Layer.pdb
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\1 Data Layer Access.pdb
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\bin\Debug\net5.0\2 Buisness Layer.pdb
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.csproj.AssemblyReference.cache
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.AssemblyInfoInputs.cache
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.AssemblyInfo.cs
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.csproj.CoreCompileInputs.cache
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\staticwebassets\RestFull-Api.StaticWebAssets.Manifest.cache
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\staticwebassets\RestFull-Api.StaticWebAssets.xml
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\scopedcss\bundle\RestFull-Api.styles.css
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.RazorTargetAssemblyInfo.cache
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.csproj.CopyComplete
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\ref\RestFull-Api.dll
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.pdb
+C:\Users\lior\Source\Repos\Solution1\RestFull-Api\obj\Debug\net5.0\RestFull-Api.genruntimeconfig.cache

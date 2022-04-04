@@ -1,0 +1,17 @@
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\bin\Debug\net5.0\3 Logic Layer.deps.json
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\bin\Debug\net5.0\3 Logic Layer.dll
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\bin\Debug\net5.0\ref\3 Logic Layer.dll
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\bin\Debug\net5.0\3 Logic Layer.pdb
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\bin\Debug\net5.0\1 Data Layer Access.dll
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\bin\Debug\net5.0\2 Buisness Layer.dll
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\bin\Debug\net5.0\2 Buisness Layer.pdb
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\bin\Debug\net5.0\1 Data Layer Access.pdb
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\obj\Debug\net5.0\3 Logic Layer.csproj.AssemblyReference.cache
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\obj\Debug\net5.0\3 Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\obj\Debug\net5.0\3 Logic Layer.AssemblyInfoInputs.cache
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\obj\Debug\net5.0\3 Logic Layer.AssemblyInfo.cs
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\obj\Debug\net5.0\3 Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\obj\Debug\net5.0\3 Logic Layer.csproj.CopyComplete
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\obj\Debug\net5.0\3 Logic Layer.dll
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\obj\Debug\net5.0\ref\3 Logic Layer.dll
+C:\Users\lior\Source\Repos\Solution1\3 Logic Layer\obj\Debug\net5.0\3 Logic Layer.pdb
